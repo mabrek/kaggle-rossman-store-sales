@@ -1,0 +1,5 @@
+source("functions.R")
+set_cores(6)
+load(file = "../output/data.RData")
+gc()
+set.seed(seed)
