@@ -2,7 +2,7 @@
 
 Result: 66th from 3303
 
-[Short strategy description](/strategy.txt)
+[Short strategy description](/strategy.md)
 
 [Detailed description](http://mabrek.github.io/blog/kaggle-forecasting/)
 
@@ -25,9 +25,9 @@ Result: 66th from 3303
 
 * `input/` unpack data files here (`store.csv`, `test.csv`, `train.csv`)
 * `R/` scripts
-    * `functions.R` function definitions
-    * `data.R` data loading, feature generation
-    * `playground.R` code snippets used for experiments and submissions
+    * [`functions.R`](R/functions.R) function definitions
+    * [`data.R`](R/data.R) data loading, feature generation
+    * [`playground.R`](R/playground.R) code snippets used for experiments and submissions
 
 
 ```
