@@ -4,7 +4,7 @@ Result: 66th from 3303
 
 [Short strategy description](/strategy.md)
 
-[Detailed description](http://mabrek.github.io/blog/kaggle-forecasting/)
+[Detailed description](http://mabrek.github.io/blog/kaggle-forecasting)
 
 ## Dependencies
 
