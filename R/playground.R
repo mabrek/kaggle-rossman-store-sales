@@ -1,7 +1,7 @@
-train_sales <- as.xts(
-  read.zoo(train[, c("Date", "Sales", "Store")],
-           split="Store"))
-
+# NOTE this file is not intended to be executed as a whole,
+# it's an unstructured collection of code snippets
+# that I used for experiments or submissions.
+# The final submission was made by snippet on lines 151-158
 
 search_space <- readRDS("../output/search-space.rds")
 search_space <- distinct(bind_rows(search_space, gs))
